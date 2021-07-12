@@ -1,2 +1,2 @@
-# go-example
-## This repo is used for golang code exercise.
+# recode gocode everyday.
+Hello golang.
