@@ -1,1 +1,1 @@
-Hello golang.
+Hello everybody！just study with me!
